@@ -1,3 +1,10 @@
+#Introduction
+
+This is code I submitted for "Mush", an assignment for the CS340: Database & Web systems taught at Hendrix College by Dr. Burch in the Spring 2012 semester. 
+
+# Overview of the assignment #
+http://www.cburch.com/cs/340/assn/06/index.html
+
 In this assignment, we'll explore how you can interface with a database in Java using JDBC, the standard API for database access using Java. Its classes and interfaces are defined in the java.sql package. Most prominent DBMSs have a database driver that is compatible with JDBC; we'll be using SQLite for our DBMS, and we'll use SQLiteJDBC for our JDBC database driver.
 
     Setting up the assignment with Eclipse
